@@ -1,6 +1,10 @@
 # Web UI
 gradio>=5.0
 
+# OCR
+pytesseract>=0.3.0
+Pillow>=10.0.0
+
 # File Parsing
 PyMuPDF>=1.23.0
 python-docx>=0.8.11
